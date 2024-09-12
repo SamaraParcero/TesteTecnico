@@ -11,7 +11,7 @@ public class Indice {
 		 
 		while (k < indice) {
 		    k += 1;
-		    soma += soma + k;
+		    soma += k;
 		}
            System.out.println("Soma total= "+soma);
 
